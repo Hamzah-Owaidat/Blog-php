@@ -1,0 +1,22 @@
+/* .user-img{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    position: relative;
+    
+}*/
+
+#file{
+    display: none;
+}
+#uploadBtn {
+    position: absolute;
+    transform: translate(250%, 120%);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 4px 7px;
+    cursor: pointer;
+    color: #FFF;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.644);
+}
